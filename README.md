@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact 
+🔭 I’m currently working on developing of a web application focused on creating a job scheduler that allows users to schedule tasks based on specific times or events.<br>
+👯 I’m looking to collaborate on<br>
+🤝 I’m looking for help with my coding skills. I’m always eager to learn new things and improve my skills.<br>
+🌱 I’m currently learning<br>
+💬 Ask me about<br>
+⚡ Fun fact 
 
 
 ## 🌐 Socials:
